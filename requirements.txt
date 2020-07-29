@@ -1,0 +1,4 @@
+selenium
+webdriver-manager==1.7
+eyes-selenium>=4.1.6
+pytest
