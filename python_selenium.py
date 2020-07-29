@@ -8,7 +8,7 @@ class python_selenium:
     eyes = Eyes()
 
     # Initialize the eyes SDK and set your private API key.
-    eyes.api_key = 'jmmNo102Rv1PpmnDDKShdwFx6amGN1rQgN9B101MaOS16Po110'
+    eyes.api_key = 'APPLITOOLS_API_KEY'
 
     try:
 
